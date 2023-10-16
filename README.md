@@ -1,1 +1,1 @@
-# CS50-Projects
+All the CS50 projects done by me
